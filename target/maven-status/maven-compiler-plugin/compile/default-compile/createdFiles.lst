@@ -1,0 +1,4 @@
+com\mycompany\ws2\resources\JavaEE8Resource.class
+service\InicioService.class
+ws\InicioWebService.class
+com\mycompany\ws2\JAXRSConfiguration.class
